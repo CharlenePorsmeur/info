@@ -20,6 +20,7 @@ docs_dir: docs
 nav: 
     - Page d'accueil : index.md
     - Actualités : actualites.md
+    - Check-list : check-list.md
     
 
 
